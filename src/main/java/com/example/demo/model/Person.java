@@ -1,7 +1,5 @@
 package com.example.demo.model;
 
-import org.apache.logging.log4j.message.Message;
-
 import javax.persistence.*;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
